@@ -22,16 +22,16 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
+global.owner = ['916205489973','918986699689','919835355991'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['916205489973','918986699689','919835355991'] //another owner number
+global.premium = ['916205489973','918986699689','919835355991'] //premium number
+global.pengguna = 'gwydion @abhishek' //username
 global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
+global.ownernma = '🦄gwydion' //owner name
 global.packname = 'Cheems Bot' //sticker package name
-global.author = 'By Dream Guy Xeon' //sticker author name
+global.author = 'By gwydion' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['#','!','/'] //prefix
 global.sp = '⭔' //design
 global.mess = {
     success: 'Done ✓',
@@ -46,7 +46,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100 //free user limit
+    free: 1000 //free user limit
 }
 global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
 
