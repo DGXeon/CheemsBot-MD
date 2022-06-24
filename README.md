@@ -53,20 +53,20 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](./config/config.json)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L30)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD/blob/master/config/config.json#L29)
+- CHANGE OWNER NUMBER [Here](./config.json)
+- CHANGE OWNER NAME [Here](./config.json)
+- CHANGE BOT NAME [Here](./config.json)
 
 ## ` BUILDPACKS`
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+https://github.com/ChamodKeshan/booster-queenax
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/CheemsBot-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # Install Manually 👇
 ## `Requirements`
