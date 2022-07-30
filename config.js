@@ -22,31 +22,31 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['916909137213','6283839980451'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916909137213'] //another owner number
-global.premium = ['916909137213'] //premium number
-global.pengguna = 'Xeon' //username
-global.botnma = 'Cheems Bot-MD' //bot name
-global.ownernma = '🦄Dream Guy Xeon' //owner name
-global.packname = 'Cheems Bot' //sticker package name
-global.author = 'By Dream Guy Xeon' //sticker author name
+global.owner = ['6285600380823','6285693650294'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['6285600380823'] //another owner number
+global.premium = ['6285600380823'] //premium number
+global.pengguna = 'Neo' //username
+global.botnma = 'Neo Bot-MD' //bot name
+global.ownernma = 'Neo-Owner' //owner name
+global.packname = 'Neo Bot' //sticker package name
+global.author = 'By Dream Neo' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in only for the bot number',
-    wait: 'In process...',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: 'Fitur khusus admin grup!',
+    botAdmin: 'Bot bukan admin!',
+    owner: 'Fitur khusus untuk owner',
+    group: 'Fitur hanya bisa digunakan di grup!',
+    private: 'Fitur khusus di chat private!',
+    bot: 'Fitur khusus bot',
+    wait: 'Sedang diproses...⌛',
+    endLimit: 'Limit kamu sudah habis, Limit akan di reset jam 12',
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100 //free user limit
+    free: 35 //free user limit
 }
 global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
 
